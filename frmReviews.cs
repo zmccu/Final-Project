@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Final_Project
 {
-    public partial class Form1 : Form
+    public partial class frmReviews : Form
     {
-        public Form1()
+        public frmReviews()
         {
             InitializeComponent();
         }

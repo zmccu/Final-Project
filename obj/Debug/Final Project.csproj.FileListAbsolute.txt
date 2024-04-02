@@ -1,0 +1,12 @@
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\bin\Debug\Final Project.exe.config
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\bin\Debug\Final Project.exe
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\bin\Debug\Final Project.pdb
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final_Project.frmMain.resources
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final_Project.frmReviews.resources
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final_Project.frmUpdates.resources
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final Project.exe
+C:\Users\Zachary\Documents\[College Classes]\Term 5 [Winter 2024]\Advanced .NET Programming - COMS-276\Final-Project\obj\Debug\Final Project.pdb
