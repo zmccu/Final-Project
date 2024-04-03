@@ -16,7 +16,7 @@ namespace Final_Project
         public frmUpdates()
         {
             InitializeComponent();
-            webJS.Navigate(Path.Combine(Application.StartupPath, "Metacritic.html"));
+            webJS.Navigate(Path.Combine(Application.StartupPath, "index.php"));
         }
 
         private void frmUpdates_Load(object sender, EventArgs e)
@@ -26,7 +26,6 @@ namespace Final_Project
 
         private void btnGetInfo_Click(object sender, EventArgs e)
         {
-            webJS.Document.InvokeScript("FetchMetacriticReviews");
         }
     }
 }
